@@ -1,6 +1,6 @@
 """
 ### Simple EL Pipeline with Data Quality Checks Using Snowflake
-test
+
 Runs a data quality check, in SQL, on the forest fires dataset
 
 Note that this DAG will clean up after itself and delete all data it uploads.
